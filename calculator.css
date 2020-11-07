@@ -1,0 +1,45 @@
+*
+	{
+		margin:0px;
+		padding: 0px;
+
+	}
+	.btn
+	{
+		width: 40px;
+		height: 40px;
+		font-weight: bold;
+		font-size: 20px;
+		margin: 3px;
+		border:none;
+		cursor: pointer;
+
+	}
+	.btns
+	{
+		width: 40px;
+		height: 40px;
+		font-weight: bold;
+		font-size: 25px;
+		margin: 3px;
+		border:none;
+		color: red;
+		cursor: pointer;
+	}
+	.textarea
+	{
+		width: 180px;
+		height: 25px;
+		margin: 5px;
+	 	font-size: 20px;
+	 	padding: 2px;
+	 	color:black;
+	 	border-radius: 5px;
+	}
+	.container
+	{
+		position: absolute;
+		top: 50%;
+		left:50%;
+		transform: translateX(-50%) translateY(-50%);
+	}
